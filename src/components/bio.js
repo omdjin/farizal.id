@@ -17,6 +17,9 @@ function Bio() {
       query={bioQuery}
       render={data => {
         const { author, social } = data.site.siteMetadata
+
+        console.log({ test: data.site.siteMetadata })
+
         return (
           <div
             style={{
@@ -38,11 +41,11 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
+              Haloo.. Saya <strong>{author}</strong>, Software Engineer Mobile
+              Web di Tokopedia.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                Ikuti saya di Twiiter
               </a>
             </p>
           </div>
