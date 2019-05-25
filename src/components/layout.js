@@ -45,6 +45,7 @@ class Layout extends React.Component {
               color: `inherit`,
             }}
             to={`/`}
+            title="Back to Home"
           >
             {title}
           </Link>
@@ -65,7 +66,9 @@ class Layout extends React.Component {
         <footer>
           Copiright 2017 - {new Date().getFullYear()} Farizal.id, Built with
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="https://www.gatsbyjs.org" target="_blank">
+            Gatsby
+          </a>
         </footer>
       </div>
     );
