@@ -41,7 +41,9 @@ function Bio() {
             <p>
               Haloo.. Saya <strong>{author}</strong>, Software Engineer Mobile Web di Tokopedia.
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>Ikuti saya di Twiiter</a>
+              <a href={`https://twitter.com/${social.twitter}`} target="_blank" rel="noreferrer">
+                Ikuti saya di Twiiter
+              </a>
             </p>
           </div>
         );

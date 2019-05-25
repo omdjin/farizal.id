@@ -66,7 +66,7 @@ class Layout extends React.Component {
         <footer>
           Copiright 2017 - {new Date().getFullYear()} Farizal.id, Built with
           {` `}
-          <a href="https://www.gatsbyjs.org" target="_blank">
+          <a href="https://www.gatsbyjs.org" target="_blank" rel="noreferrer">
             Gatsby
           </a>
         </footer>
