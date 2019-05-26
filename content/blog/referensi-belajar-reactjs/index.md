@@ -16,7 +16,7 @@ Di Indonesia sendiri sudah banyak sekali lowongan pekerjaan yang membutuhkan pro
 
 Sudah banyak sekali referensi yang membahas React, mulai dari materi pemula, hingga materi untuk kamu yang udah berpengalaman. Berikut ini adalah beberapa referensi/resource/sumber belajar React rekomendasi dari saya.
 
-![Memulai belajar react](./memulai-belajar-react.jpg 'Photo by Hitesh Choudhary on Unsplash')[]()
+![Memulai belajar react](./memulai-belajar-react.jpg 'Photo by Hitesh Choudhary on Unsplash')
 
 ###1. [Dokumentasi Resmi Reactjs](https://reactjs.org/docs/getting-started.html)
 
