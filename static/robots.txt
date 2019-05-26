@@ -11,4 +11,4 @@ Disallow: /
 User-agent: yandex
 Disallow: /
 
-Sitemap: /sitemap.xml
+Sitemap: https://farizal.id/sitemap.xml
