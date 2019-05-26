@@ -1,2 +1,14 @@
 User-agent: *
-Disallow:
+Disallow: /404
+Disallow: /offline-plugin-app-shell-fallback/
+
+User-agent: Alexabot
+Disallow: /
+
+User-agent: baiduspider
+Disallow: /
+
+User-agent: yandex
+Disallow: /
+
+Sitemap: /sitemap.xml
