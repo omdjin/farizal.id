@@ -69,14 +69,17 @@ class Layout extends React.Component {
           style={{
             marginLeft: `auto`,
             marginRight: `auto`,
+            maxWidth: rhythm(24),
             padding: `16px`,
             borderTop: `1px solid #eee`,
+            ...scale(-1 / 4),
           }}
         >
-          Copiright 2017 - {new Date().getFullYear()} Farizal.id, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org" target="_blank" rel="noopener noreferrer">
-            Gatsby
+          Copiright 2017 - {new Date().getFullYear()} - Farizal.id
+          <br />
+          Built with {` `}
+          <a href="https://github.com/gatsbyjs/gatsby-starter-blog" target="_blank" rel="noopener noreferrer">
+            Gatsby's blog starter
           </a>
         </footer>
       </>
