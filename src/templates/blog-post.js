@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link, graphql } from 'gatsby';
+import { Disqus } from 'gatsby-plugin-disqus';
 
 import Bio from '../components/bio';
 import Layout from '../components/layout';
@@ -8,12 +9,19 @@ import { rhythm, scale } from '../utils/typography';
 
 class BlogPostTemplate extends React.Component {
   render() {
-    const post = this.props.data.markdownRemark;
-    const siteTitle = this.props.data.site.siteMetadata.title;
-    const { previous, next } = this.props.pageContext;
+    const { data, location, pageContext } = this.props;
+    const post = data.markdownRemark;
+    const siteTitle = data.site.siteMetadata.title;
+    const siteUrl = data.site.siteMetadata.siteUrl;
+    const { previous, next } = pageContext;
+    const disqusConfig = {
+      identifier: post.id,
+      title: post.frontmatter.title,
+      url: `${siteUrl + location.pathname}`,
+    };
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout location={location} title={siteTitle}>
         <SEO title={post.frontmatter.title} description={post.frontmatter.description || post.excerpt} />
         <h1>{post.frontmatter.title}</h1>
         <p
@@ -27,6 +35,7 @@ class BlogPostTemplate extends React.Component {
           {post.frontmatter.date}
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        <Disqus config={disqusConfig} />
         <hr
           style={{
             marginBottom: rhythm(1),
@@ -71,6 +80,7 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         author
+        siteUrl
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {

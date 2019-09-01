@@ -3,12 +3,18 @@ module.exports = {
     title: `Farizal.id`,
     author: `Farizal Tri Anugrah`,
     description: `Membahas tentang teknologi dan internet.`,
-    siteUrl: `https://farizal.id/`,
+    siteUrl: `https://farizal.id`,
     social: {
       twitter: `@omdjin`,
     },
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `farizal-id`,
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
