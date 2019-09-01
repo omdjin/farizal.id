@@ -28,6 +28,25 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: `@raae/gatsby-remark-oembed`,
+            options: {
+              // usePrefix defaults to false
+              // usePrefix: true is the same as ["oembed"]
+              usePrefix: ['embed', 'video', 'oembed'],
+              providers: {
+                // Important to exclude providers
+                // that adds js to the page.
+                // If you do not need them.
+                include: ['Instagram'],
+                exclude: ['CodePen', 'Flickr', 'Reddit', 'SoundCloud', 'Twitch', 'Twitter', 'Vimeo', 'YouTube'],
+                settings: {
+                  // Ex. Hide all Instagram comments by default
+                  Instagram: { hidecaption: false },
+                },
+              },
+            },
+          },
+          {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 590,
@@ -61,8 +80,8 @@ module.exports = {
         short_name: `Farizal.id`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
-        display: `minimal-ui`,
+        theme_color: `#007acc`,
+        display: `standalone`,
         icon: `content/assets/blog-icon.jpg`,
         theme_color_in_head: false,
       },
