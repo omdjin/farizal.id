@@ -4,6 +4,7 @@ date: "2020-05-04T11:24:32.169Z"
 description: Kesulitan menyisihkan atau menabung untuk dana darurat? Yuk simak tips berikut ini!
 category: Keuangan
 ---
+![Tips mengumpulkan dana darurat](./tips-mengumpulkan-dana-darurat.jpg 'Photo by Annie Spratt on Unsplash')
 
 Mengumpulkan dana darurat memang tak mudah. Banyak di antara kita yang sudah punya niat untuk memiliki dana darurat, namun tetap kesulitan dalam mengumpulkannya.
 
@@ -14,7 +15,7 @@ Di artikel ini, saya mencoba memberikan tips bagaimana mengumpulkan dana darurat
 Mari kita mulai.
 
 ### Pahami Manfaat dan Fungsi Dana Darurat
-Dana darurat adalah salah satu simpanan harus anda miliki dan sangat penting dalam perencanaan keuangan. Fungsinya untuk membiayai kebutuhan hidup anda saat anda tidak mempunyai penghasilan.
+Dana darurat atau *emergency fund* adalah salah satu simpanan harus anda miliki dan sangat penting dalam perencanaan keuangan. Fungsinya untuk membiayai kebutuhan hidup anda saat anda tidak mempunyai penghasilan.
 
 Apalagi di masa pandemi Corona (COVID19) di tahun 2020 ini, banyak orang yang kehilangan pekerjaan karena perekonomian yang memburuk, tentunya dana darurat sangatlah dibutuhkan.
 
@@ -27,13 +28,13 @@ Sedangkan untuk hutang atau cicilan hutang (maksimal 30% dari penghasilan), haru
 ### Ketahui Kondisi Keuangan Anda Saat Ini
 Ada lho, orang yang gak tau penghasilan dan pengeluaran dia tiap bulannya berapa. Teman satu kantor saya sendiri contohnya.
 
-Kenapa kita mesti tahu betul berapa penghasilan dan pengeluaran kita tiap bulannya? Karena dengan begitu, anda akan lebih mudah menentukan berapa banyak yang harus anda sisihkan untuk berbagai macam kebutuhan, misalnya untuk menabung dan dana darurat.
+Kenapa anda mesti tahu betul berapa penghasilan dan pengeluaran anda tiap bulannya? Karena dengan begitu, anda akan lebih mudah menentukan berapa banyak yang harus anda sisihkan untuk berbagai macam kebutuhan, misalnya untuk menabung dan dana darurat.
 
 Mulailah catat pengeluaran bulanan anda. Bisa dicoba untuk mencatat pengeluaran dari tanggal anda gajian misalnya, karena umumnya setelah gajian, terbitlah pengeluaran hehehe.
 
-Capek nyatat pengeluaran tiap hari? Sabar ya, melakukan ini selama sebulan aja udah cukup kok untuk tahu pos-pos pengeluaran bulanan anda. Kalo anda bisa 2 bulan atau lebih, lebih bagus lagi!
+Capek mencatat pengeluaran tiap hari? Sabar ya, melakukan ini selama sebulan aja udah cukup kok untuk tahu pos-pos pengeluaran bulanan anda. Kalo anda bisa 2 bulan atau lebih, lebih bagus lagi!
 
-Oiya, mencatat pengeluaran bulanan ini bisa juga anda ulangi tiap 3 atau 6 bulan sekali. Bisa jadi dalam kurun waktu tersebut, anda punya tambahan pos pengeluaran lainnya. Misal jika 3 bulan lalu belum punya mobil, terus anda baru beli mobil, wajib catat lagi pengeluaran bulanan ya! Karena pengeluaran bulanannya pasti akan bertambah.
+Oiya, mencatat pengeluaran bulanan ini bisa juga anda ulangi tiap 3 atau 6 bulan sekali. Bisa jadi dalam kurun waktu tersebut, anda punya tambahan pos pengeluaran lainnya. Misal jika 3 bulan lalu anda belum punya mobil, kemudian anda baru  saja membeli mobil, maka anda wajib catat lagi pengeluaran bulanan ya! Karena pengeluaran bulanannya pasti akan bertambah.
 
 ### Ketahui Jumlah Dana Darurat yang Anda Butuhkan
 Kebutuhan dana darurat masing-masing orang akan berbeda-beda, tergantung status pernikahan, jumlah anak, dan sumber penghasilan.
