@@ -1,6 +1,6 @@
 ---
 title: Tips Mengumpulkan Dana Darurat
-date: "2020-05-04T11:24:32.169Z"
+date: "2020-05-24T06:24:32.169Z"
 description: Kesulitan menyisihkan atau menabung untuk dana darurat? Yuk simak tips berikut ini!
 category: Keuangan
 ---
