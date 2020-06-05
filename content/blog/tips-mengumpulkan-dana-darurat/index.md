@@ -49,12 +49,12 @@ Jika anda lajang dan pengeluaran bulanan anda 5 juta rupiah, maka anda membutuhk
 
 Jika anda sudah menikah, dan pengeluaran keluarga anda 10 juta rupiah, maka anda membutuhkan dana darurat minimal sebesar 50 juta rupiah.
 
-Contoh di atas adalah kebutuhan minimal, artinya juga anda punya kemampuan untuk menaikkan jumlahnya, lebih baik lagi.
+Contoh di atas adalah kebutuhan minimal, artinya jika anda punya kemampuan untuk menaikkan jumlahnya, akan lebih baik lagi.
 
-Jika anda memiliki pekerjaan yang tidak tetap, misalnya kerja kontrak tiap 6bulan sampai 1 tahun, atau *Freelance*, maka anda memerlukan dana darurat yang lebih besar lagi, karena anda harus mempertimbangkan faktor ketidakpastian penghasilan. Anda bisa menaikkan jumlahnya dua kali lipat dari target minimal di atas.
+Jika anda memiliki pekerjaan yang tidak tetap, misalnya kerja kontrak tiap 6 bulan sampai 1 tahun, atau *Freelance*, maka anda memerlukan dana darurat yang lebih besar lagi, karena anda harus mempertimbangkan faktor ketidakpastian penghasilan. Anda bisa menaikkan jumlahnya dua kali lipat dari target minimal di atas.
 
 ### Kumpulkan Dana Darurat Secara Bertahap
-Kaget setelah tahu target dana darurat ternyata cukup besar? Anda tak perlu khawatir atau cemas, apalagi malah jadi paranoid buat memulai. Jika anda baru memulai mengumpulkan dana darurat, yang anda perlukan adalah memulainya secara perlahan, dan lakukan secara rutin.
+Kaget setelah tahu target dana darurat ternyata cukup besar? Anda tak perlu khawatir atau cemas, apalagi malah jadi paranoid buat memulai. Tak masalah kalau anda baru memulai mengumpulkan dana darurat, yang anda perlukan adalah memulainya secara perlahan, dan lakukan secara rutin. *Better late than never.*
 
 Jika anda hanya bisa menabung 10% dari penghasilan anda, tidak apa-apa. Sisihkan seluruhnya atau sebagian besar dari 10% tersebut untuk dana darurat.
 
@@ -76,3 +76,4 @@ Saya menyarankan Anda untuk memilih deposito berjangka 1 bulan, untuk meminimali
 
 Memang sih, makin lama jangka waktu deposito maka *return*-nya pun akan lebih besar. Tapi dana darurat ini kebutuhannya ya untuk kebutuhan darurat, bukan untuk investasi. Sebaiknya pisahkan dana untuk kebutuhan darurat dan kebutuhan investasi.
 
+Demikian tips dari saya. Anda punya tips sendiri, atau punya pengalaman menarik selama mengumpulkan dana darurat? Sampaikan di kolom komentar ;)
